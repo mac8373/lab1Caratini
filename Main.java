@@ -1,6 +1,6 @@
 /**
  * Project: lab1Caratini
- * Purpose Details: Main class for testing motorcycle class
+ * Purpose Details: Main class for testing motorcycle objects
  * Course: IST 242
  * Author: Maximo Caratini
  * Date Developed: 1/21/24
